@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FA7-L42M03</Machine>
+    <WindowsUser>1581444</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>67096dc2-8958-40b5-80e7-1d0a62094259</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Bin\Debug\ExemploLocalization.dll">
+      <PackagePath>ExemploLocalization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploLocalization\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

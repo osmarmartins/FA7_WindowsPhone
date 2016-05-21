@@ -1,6 +1,6 @@
-﻿<xapCache source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Bin\Debug\ExemploPanorama_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="21/05/2016 11:52:27">
-  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="21/05/2016 11:52:26" />
-  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\obj\Debug\ExemploPanorama.dll" archivePath="ExemploPanorama.dll" lastWriteTime="21/05/2016 11:52:26" />
+﻿<xapCache source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Bin\Debug\ExemploPanorama_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="21/05/2016 14:59:45">
+  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="21/05/2016 14:59:44" />
+  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\obj\Debug\ExemploPanorama.dll" archivePath="ExemploPanorama.dll" lastWriteTime="21/05/2016 14:59:44" />
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="21/05/2016 11:39:53" />
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="21/05/2016 11:39:53" />
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="21/05/2016 11:39:53" />
@@ -13,11 +13,11 @@
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="21/05/2016 11:39:53" />
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="21/05/2016 11:39:53" />
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="21/05/2016 11:39:53" />
-  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="21/05/2016 11:52:27" />
+  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="21/05/2016 14:45:26" />
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="21/05/2016 11:39:53" />
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="21/05/2016 11:39:53" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="06/02/2015 03:37:50" />
-  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="21/05/2016 11:52:27" />
-  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="21/05/2016 11:52:27" />
-  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="21/05/2016 11:52:26" />
+  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="21/05/2016 14:45:26" />
+  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="21/05/2016 14:59:45" />
+  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\ExemploPanorama\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="21/05/2016 14:59:44" />
 </xapCache>
