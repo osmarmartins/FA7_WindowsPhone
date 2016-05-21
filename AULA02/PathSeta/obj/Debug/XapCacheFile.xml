@@ -1,6 +1,6 @@
-﻿<xapCache source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\Bin\Debug\PathSeta_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="21/05/2016 15:25:08">
+﻿<xapCache source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\Bin\Debug\PathSeta_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="21/05/2016 16:09:21">
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="21/05/2016 15:25:07" />
-  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\obj\Debug\PathSeta.dll" archivePath="PathSeta.dll" lastWriteTime="21/05/2016 15:25:07" />
+  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\obj\Debug\PathSeta.dll" archivePath="PathSeta.dll" lastWriteTime="21/05/2016 16:09:20" />
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="21/05/2016 15:25:03" />
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="21/05/2016 15:25:03" />
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="21/05/2016 15:25:03" />
@@ -17,6 +17,6 @@
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="21/05/2016 15:25:03" />
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="21/05/2016 15:25:03" />
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="21/05/2016 15:25:08" />
-  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="21/05/2016 15:25:08" />
+  <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="21/05/2016 16:09:21" />
   <file source="C:\Users\1581444\Documents\Visual Studio 2015\Projects\DPP-I\AULA02\PathSeta\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="21/05/2016 15:25:08" />
 </xapCache>

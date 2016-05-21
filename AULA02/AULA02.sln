@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathApp", "PathApp\PathApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathSeta", "PathSeta\PathSeta.csproj", "{2B79A59D-4AD2-48C3-B62E-70DB2DE43307}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploTile", "ExemploTile\ExemploTile.csproj", "{2BAB3562-A04C-4C01-9E27-149AC9829583}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,24 @@ Global
 		{2B79A59D-4AD2-48C3-B62E-70DB2DE43307}.Release|x86.ActiveCfg = Release|x86
 		{2B79A59D-4AD2-48C3-B62E-70DB2DE43307}.Release|x86.Build.0 = Release|x86
 		{2B79A59D-4AD2-48C3-B62E-70DB2DE43307}.Release|x86.Deploy.0 = Release|x86
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Debug|ARM.Build.0 = Debug|ARM
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Debug|ARM.Deploy.0 = Debug|ARM
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Debug|x86.ActiveCfg = Debug|x86
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Debug|x86.Build.0 = Debug|x86
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Debug|x86.Deploy.0 = Debug|x86
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Release|ARM.ActiveCfg = Release|ARM
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Release|ARM.Build.0 = Release|ARM
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Release|ARM.Deploy.0 = Release|ARM
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Release|x86.ActiveCfg = Release|x86
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Release|x86.Build.0 = Release|x86
+		{2BAB3562-A04C-4C01-9E27-149AC9829583}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
