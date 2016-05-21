@@ -1,6 +1,6 @@
-﻿using Canvas.Resources;
+﻿using ExercicioCanvas.Resources;
 
-namespace Canvas
+namespace ExercicioCanvas
 {
     /// <summary>
     /// Provides access to string resources.

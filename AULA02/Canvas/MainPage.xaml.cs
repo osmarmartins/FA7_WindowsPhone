@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Windows;
+﻿using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
-using Microsoft.Phone.Shell;
-using Canvas.Resources;
+using System.Windows.Shapes;
+using System.Windows.Media;
 
-namespace Canvas
+namespace ExercicioCanvas
 {
     public partial class MainPage : PhoneApplicationPage
     {
@@ -18,24 +13,45 @@ namespace Canvas
         {
             InitializeComponent();
 
-            // Sample code to localize the ApplicationBar
-            //BuildLocalizedApplicationBar();
         }
 
-        // Sample code for building a localized ApplicationBar
-        //private void BuildLocalizedApplicationBar()
-        //{
-        //    // Set the page's ApplicationBar to a new instance of ApplicationBar.
-        //    ApplicationBar = new ApplicationBar();
+        void CriarEllipses(Color cor)
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 20; j++)
+                {
+                    Ellipse el = new Ellipse
+                    {
+                        Width = 80,
+                        Height = 80,
+                        Stroke = new SolidColorBrush(Colors.Yellow),
+                        StrokeThickness = 5
+                    };
 
-        //    // Create a new button and set the text value to the localized string from AppResources.
-        //    ApplicationBarIconButton appBarButton = new ApplicationBarIconButton(new Uri("/Assets/AppBar/appbar.add.rest.png", UriKind.Relative));
-        //    appBarButton.Text = AppResources.AppBarButtonText;
-        //    ApplicationBar.Buttons.Add(appBarButton);
+                    Canvas.SetTop(el, j * 60);
+                    Canvas.SetLeft(el, i * 60);
 
-        //    // Create a new menu item with the localized string from AppResources.
-        //    ApplicationBarMenuItem appBarMenuItem = new ApplicationBarMenuItem(AppResources.AppBarMenuItemText);
-        //    ApplicationBar.MenuItems.Add(appBarMenuItem);
-        //}
+                    cc.Children.Add(el);
+                }
+
+            }
+
+        }
+
+        private void btAmarelo_Click(object sender, RoutedEventArgs e)
+        {
+            CriarEllipses(Colors.Yellow);
+        }
+
+        private void btAzul_Click(object sender, RoutedEventArgs e)
+        {
+            CriarEllipses(Colors.Blue);
+        }
+
+        private void btBranco_Click(object sender, RoutedEventArgs e)
+        {
+            CriarEllipses(Colors.White);
+        }
     }
 }

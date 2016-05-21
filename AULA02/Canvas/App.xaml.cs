@@ -6,9 +6,9 @@ using System.Windows.Markup;
 using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
-using Canvas.Resources;
+using ExercicioCanvas.Resources;
 
-namespace Canvas
+namespace ExercicioCanvas
 {
     public partial class App : Application
     {

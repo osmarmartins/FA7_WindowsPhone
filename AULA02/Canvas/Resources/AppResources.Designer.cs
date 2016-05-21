@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Canvas.Resources
+namespace ExercicioCanvas.Resources
 {
     using System;
 
