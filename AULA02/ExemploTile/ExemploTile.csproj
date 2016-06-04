@@ -132,6 +132,10 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Assets\BadgeLogo.png" />
+    <Content Include="Assets\cores\vermelho.png" />
+    <Content Include="Assets\cores\laranja.png" />
+    <Content Include="Assets\cores\verde.png" />
+    <Content Include="Assets\cores\azul.png" />
     <Content Include="Assets\Logo.png" />
     <Content Include="Assets\SplashScreen.png" />
     <Content Include="Assets\SquareTile150x150.png" />
